@@ -19,3 +19,5 @@ Welcome to the Weather App! This React JS application provides real-time weather
 ## 💻 𝐈𝐃𝐄 ##
 
 -Visual Studio Code: The integrated development environment used for coding.
+
+![image](https://github.com/user-attachments/assets/9e53c411-7fea-4674-bf7e-259498d3d059)
